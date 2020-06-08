@@ -1,0 +1,63 @@
+2020-06-07T22:12:48: PM2 log: ===============================================================================
+2020-06-07T22:12:48: PM2 log: --- New PM2 Daemon started ----------------------------------------------------
+2020-06-07T22:12:48: PM2 log: Time                 : Sun Jun 07 2020 22:12:48 GMT+0000 (Coordinated Universal Time)
+2020-06-07T22:12:48: PM2 log: PM2 version          : 4.4.0
+2020-06-07T22:12:48: PM2 log: Node.js version      : 14.4.0
+2020-06-07T22:12:48: PM2 log: Current arch         : x64
+2020-06-07T22:12:48: PM2 log: PM2 home             : /root/.pm2
+2020-06-07T22:12:48: PM2 log: PM2 PID file         : /root/.pm2/pm2.pid
+2020-06-07T22:12:48: PM2 log: RPC socket file      : /root/.pm2/rpc.sock
+2020-06-07T22:12:48: PM2 log: BUS socket file      : /root/.pm2/pub.sock
+2020-06-07T22:12:48: PM2 log: Application log path : /root/.pm2/logs
+2020-06-07T22:12:48: PM2 log: Worker Interval      : 30000
+2020-06-07T22:12:48: PM2 log: Process dump file    : /root/.pm2/dump.pm2
+2020-06-07T22:12:48: PM2 log: Concurrent actions   : 2
+2020-06-07T22:12:48: PM2 log: SIGTERM timeout      : 1600
+2020-06-07T22:12:48: PM2 log: ===============================================================================
+2020-06-07T22:12:48: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-07T22:12:48: PM2 log: App [mi-api:0] online
+2020-06-07T22:28:33: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-07T22:28:33: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-07T22:28:33: PM2 log: App [mi-api:0] online
+2020-06-07T22:47:15: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-07T22:47:15: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-07T22:47:15: PM2 log: App [mi-api:0] online
+2020-06-07T23:24:32: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-07T23:24:32: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-07T23:24:32: PM2 log: App [mi-api:0] online
+2020-06-07T23:59:27: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-07T23:59:27: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-07T23:59:27: PM2 log: App [mi-api:0] online
+2020-06-08T00:14:29: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T00:14:29: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T00:14:29: PM2 log: App [mi-api:0] online
+2020-06-08T01:57:54: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T01:57:54: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T01:57:54: PM2 log: App [mi-api:0] online
+2020-06-08T02:42:25: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T02:42:25: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T02:42:25: PM2 log: App [mi-api:0] online
+2020-06-08T03:20:59: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T03:20:59: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T03:20:59: PM2 log: App [mi-api:0] online
+2020-06-08T03:50:15: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T03:50:15: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T03:50:15: PM2 log: App [mi-api:0] online
+2020-06-08T04:27:34: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T04:27:34: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T04:27:34: PM2 log: App [mi-api:0] online
+2020-06-08T05:01:50: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T05:01:50: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T05:01:50: PM2 log: App [mi-api:0] online
+2020-06-08T05:32:47: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T05:32:47: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T05:32:47: PM2 log: App [mi-api:0] online
+2020-06-08T06:46:19: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T06:46:19: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T06:46:19: PM2 log: App [mi-api:0] online
+2020-06-08T07:31:05: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T07:31:05: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T07:31:05: PM2 log: App [mi-api:0] online
+2020-06-08T08:18:03: PM2 log: App [mi-api:0] exited with code [1] via signal [SIGINT]
+2020-06-08T08:18:03: PM2 log: App [mi-api:0] starting in -fork mode-
+2020-06-08T08:18:03: PM2 log: App [mi-api:0] online

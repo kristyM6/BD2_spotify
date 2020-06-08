@@ -1,0 +1,33 @@
+<!DOCTYPE html> <html>
+  <head>
+    <meta charset="utf-8">
+    <title>Views</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOd$
+  </head>
+  <body>
+    <nav class="navbar navbar-dark bg-dark">
+      <a href="#v" class="navbar-brand mx-auto">Views</a>
+    </nav>
+    <div class="row">
+      <div class="col-md-6 mt-4 text-center">
+        <table class="table table-striped table-bordered">
+          <tr>
+            <th>nombre</th>
+            <th>ultima fecha ingreso</th>
+            <th>entrada</th>
+            <th>salida</th>
+            <th>cantidad ingreso</th>
+          </tr>
+          <% for (var i = 0; i < views.length; i ++) { %>
+            <tr>
+              <td><%- views[i].Nombre_Usuario %></td>
+              <td><%- views[i].Ultima_fecha_Ingreso %></td>
+              <td><%- views[i].Entrada %></td>
+              <td><%- views[i].Salida %></td>
+              <td><%- views[i].Cantidad_Ingreso %></td>
+            </tr>
+          <% } %>
+        </table>
+      </div>
+  </body>
+</html>
